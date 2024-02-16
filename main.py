@@ -24,13 +24,31 @@
 #print(human)
 
 ## assign varuables
-name , age , attractive = "mohamed" , 21 , True
-print(name)
-print(age)
-print(attractive)
+#name , age , attractive = "mohamed" , 21 , True
+#print(name)
+#print(age)
+#print(attractive)
 
-a = b = c = d = 30
-print(a)
-print(b)
-print(c)
-print(d)
+#a = b = c = d = 30
+#print(a)
+#print(b)
+#print(c)
+#print(d)
+
+
+## string functinos
+
+name = "mohamed"
+print(len(name)) # --> str.size()
+print(name.find("hamed")) # ---> find substring or find char , return first idx of the finded str , char
+print(name.capitalize())  # --- > #capital anything
+print(name.upper())   # --- > #capital anything
+print(name.lower())    # --- > ! capital anything
+digitt = "024345653465674567678"
+print(digitt.isdigit()) # return true if the string consisting of digits
+print(digitt.isalpha())
+print(digitt.count('6'))
+print(digitt.replace('6','7'))
+
+# Display string more than one time
+print(name*3)

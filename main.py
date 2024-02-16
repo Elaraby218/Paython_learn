@@ -14,11 +14,23 @@
 #print("your age is " +str(age))   # str(datatype) -- > casting to string
 #print(type(age))
 
-# Floats
+## Floats
 #height = 250.234456456456456456456456456456456546456456456356746758456743758
 #print("your height is " + str(height))
 #print(type(height))
 
-# Boolean data type
+## Boolean data type
 #human = True
 #print(human)
+
+## assign varuables
+name , age , attractive = "mohamed" , 21 , True
+print(name)
+print(age)
+print(attractive)
+
+a = b = c = d = 30
+print(a)
+print(b)
+print(c)
+print(d)

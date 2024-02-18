@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loop_contorl_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List_in_python.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.List_in_python.executor": "Run",
     "Python.Loop_contorl_statements.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -196,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708290270984</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Loops controle statments">
+      <option name="closed" value="true" />
+      <created>1708292181684</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1708292181684</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -212,6 +221,7 @@
     <MESSAGE value="Logical Operators&#10; https://youtu.be/XKHEtdqhLK8?t=3847" />
     <MESSAGE value="While loops &#10;https://youtu.be/XKHEtdqhLK8?t=4062" />
     <MESSAGE value="For loops &#10;https://youtu.be/XKHEtdqhLK8?t=4062" />
-    <option name="LAST_COMMIT_MESSAGE" value="For loops &#10;https://youtu.be/XKHEtdqhLK8?t=4062" />
+    <MESSAGE value="Loops controle statments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops controle statments" />
   </component>
 </project>

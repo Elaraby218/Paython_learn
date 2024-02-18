@@ -59,6 +59,7 @@ x,y,z = 1,2.0,"3"
 
 x=float(x)
 y=int(y)
+
 z=int(z)
 
 print(x)

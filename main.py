@@ -68,12 +68,25 @@
 
 
 ### User Input
-x = input("What is your name?: ") # note that input will be string always
+#x = input("What is your name?: ") # note that input will be string always
                                    # you need to cast it to your need
-age = int(input("What is your name:? "))
-tall= float(input("How tall are you:? "))
+#age = int(input("What is your name:? "))
+#tall= float(input("How tall are you:? "))
 
-print("Hello ",x, " Your age is ",age," years old , you are " , tall , " CM tall !")
+#print("Hello ",x, " Your age is ",age," years old , you are " , tall , " CM tall !")
+
+
+# Math Functions
+import math
+pi = 3.14
+print(round(pi))
+print(math.ceil(pi))
+print(math.floor(pi))
+print(abs(pi))
+print(math.pow(pi,2))
+print(math.sqrt(pi))
+print(max(1,2,3,4,4,5,6,6,5,4,3,4,5))
+print(min(1,2,3,4,4,5,6,6,5,4,3,4,5))
 
 
 

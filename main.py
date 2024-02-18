@@ -55,13 +55,25 @@
 
 
 # Type casting
-x,y,z = 1,2.0,"3"
+#x,y,z = 1,2.0,"3"
 
-x=float(x)
-y=int(y)
+#x=float(x)
+#y=int(y)
 
-z=int(z)
+#z=int(z)
 
-print(x)
-print(y)
-print(z*3)
+#print(x)
+#print(y)
+#print(z*3)
+
+
+### User Input
+x = input("What is your name?: ") # note that input will be string always
+                                   # you need to cast it to your need
+age = int(input("What is your name:? "))
+tall= float(input("How tall are you:? "))
+
+print("Hello ",x, " Your age is ",age," years old , you are " , tall , " CM tall !")
+
+
+

@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="String slicing , 92 : 119">
+    <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="if conditions form 121 : 129 &#10;link : https://youtu.be/XKHEtdqhLK8?t=3426">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Elaraby218&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="aa59dd50-11a3-41f1-9ebb-4c23463322f4" />
+        <option name="url" value="https://github.com/Elaraby218/Paython_learn.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -33,17 +48,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
-    "settings.editor.splitter.proportion": "0.3058104"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Colors&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.3058104&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -148,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708230188025</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="if conditions form 121 : 129 &#10;link : https://youtu.be/XKHEtdqhLK8?t=3426">
+      <option name="closed" value="true" />
+      <created>1708232491462</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708232491462</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +183,7 @@
     <MESSAGE value="User input after line 67" />
     <MESSAGE value="Math Functions , 79" />
     <MESSAGE value="String slicing , 92 : 119" />
-    <option name="LAST_COMMIT_MESSAGE" value="String slicing , 92 : 119" />
+    <MESSAGE value="if conditions form 121 : 129 &#10;link : https://youtu.be/XKHEtdqhLK8?t=3426" />
+    <option name="LAST_COMMIT_MESSAGE" value="if conditions form 121 : 129 &#10;link : https://youtu.be/XKHEtdqhLK8?t=3426" />
   </component>
 </project>

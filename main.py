@@ -119,10 +119,19 @@
 # print(website[slice])
 
 ##### if conditions
-age = int(input("How old are your"))
-if age>=18 :
-    print("you are adult")
-elif age <=0 :
-    print("you haven't been born yet")
+#age = int(input("How old are your"))
+#if age>=18 :
+#    print("you are adult")
+#elif age <=0 :
+#    print("you haven't been born yet")
+#else :
+#    print("you are a child")
+
+#Logical operator
+temp = int(input("What is the termpreature "))
+if temp >=0 and temp <=30 :
+    print("hot")
+elif temp < 0 or temp > 20 :
+    print("stay inside")
 else :
-    print("you are a child")
+    print("cold")

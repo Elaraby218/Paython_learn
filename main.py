@@ -128,10 +128,18 @@
 #    print("you are a child")
 
 #Logical operator
-temp = int(input("What is the termpreature "))
-if temp >=0 and temp <=30 :
-    print("hot")
-elif temp < 0 or temp > 20 :
-    print("stay inside")
-else :
-    print("cold")
+#temp = int(input("What is the termpreature "))
+#if temp >=0 and temp <=30 :
+#    print("hot")
+#elif temp < 0 or temp > 20 :
+#    print("stay inside")
+#else :
+#    print("cold")
+
+
+##### Loops
+
+name = input("please enter your name")
+while name == "" :
+    name = input("please insert your name")
+print("Your name is : " + name)

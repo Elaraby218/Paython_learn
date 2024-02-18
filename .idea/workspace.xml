@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="if conditions form 121 : 129 &#10;link : https://youtu.be/XKHEtdqhLK8?t=3426">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708232491462</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Logical Operators&#10; https://youtu.be/XKHEtdqhLK8?t=3847">
+      <option name="closed" value="true" />
+      <created>1708288544959</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708288544959</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +191,7 @@
     <MESSAGE value="Math Functions , 79" />
     <MESSAGE value="String slicing , 92 : 119" />
     <MESSAGE value="if conditions form 121 : 129 &#10;link : https://youtu.be/XKHEtdqhLK8?t=3426" />
-    <option name="LAST_COMMIT_MESSAGE" value="if conditions form 121 : 129 &#10;link : https://youtu.be/XKHEtdqhLK8?t=3426" />
+    <MESSAGE value="Logical Operators&#10; https://youtu.be/XKHEtdqhLK8?t=3847" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logical Operators&#10; https://youtu.be/XKHEtdqhLK8?t=3847" />
   </component>
 </project>

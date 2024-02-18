@@ -77,16 +77,45 @@
 
 
 # Math Functions
-import math
-pi = 3.14
-print(round(pi))
-print(math.ceil(pi))
-print(math.floor(pi))
-print(abs(pi))
-print(math.pow(pi,2))
-print(math.sqrt(pi))
-print(max(1,2,3,4,4,5,6,6,5,4,3,4,5))
-print(min(1,2,3,4,4,5,6,6,5,4,3,4,5))
+#import math
+#pi = 3.14
+#print(round(pi))
+#print(math.ceil(pi))
+#print(math.floor(pi))
+#print(abs(pi))
+#print(math.pow(pi,2))
+#print(math.sqrt(pi))
+#print(max(1,2,3,4,4,5,6,6,5,4,3,4,5))
+#print(min(1,2,3,4,4,5,6,6,5,4,3,4,5))
 
+
+# String slicing
+# slicing = create a substring by extraction elements from another string
+#          indexing[] or slice()
+#          [start(inclusive):stop(exclusive):step]
+
+#       01234567890123456789012345678
+name = "mohamed ramadan elaraby ahmed"
+second_name = name[8:15]
+n = name[:10]  # start from idx 0 and end with idx 11
+nn= name[10:]  # start from idx 10 and end with last idx
+print(name)
+print(n)
+print(nn)
+print("Your second name is " + second_name)
+
+#reverse string using slicing
+reversed_name = name[::-1]
+print(reversed_name)
+
+# Slice Function
+# negative index is like indexing but from end to start
+
+#           -7  -6  -5  -4   -3  -2  -1
+# string =   M   o   h   a   m   e   d
+
+website = "http://google.com"
+slice = slice(7,-4)
+print(website[slice])
 
 

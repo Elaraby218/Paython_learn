@@ -139,7 +139,28 @@
 
 ##### Loops
 
-name = input("please enter your name")
-while name == "" :
-    name = input("please insert your name")
-print("Your name is : " + name)
+#name = input("please enter your name")
+#while name == "" :
+#    name = input("please insert your name")
+#print("Your name is : " + name)
+
+#### For loop
+
+#for i in range(10) :  # from 0 to range
+#    print(i)
+
+#for i in range(10,50+1) :
+#    print(i)
+
+#for i in range(10,51,2) : #(start , end , step)
+#    print(i)
+
+#name = input("Please enter your name " )
+#for i in name :
+#    print(i + " ")
+
+import time
+for i in range(10,0,-1):
+    print(i)
+    time.sleep(1)
+print("Happy new year")

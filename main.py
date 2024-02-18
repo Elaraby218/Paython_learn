@@ -95,18 +95,18 @@
 #          [start(inclusive):stop(exclusive):step]
 
 #       01234567890123456789012345678
-name = "mohamed ramadan elaraby ahmed"
-second_name = name[8:15]
-n = name[:10]  # start from idx 0 and end with idx 11
-nn= name[10:]  # start from idx 10 and end with last idx
-print(name)
-print(n)
-print(nn)
-print("Your second name is " + second_name)
+# name = "mohamed ramadan elaraby ahmed"
+# second_name = name[8:15]
+# n = name[:10]  # start from idx 0 and end with idx 11
+# nn= name[10:]  # start from idx 10 and end with last idx
+# print(name)
+# print(n)
+# print(nn)
+# print("Your second name is " + second_name)
 
 #reverse string using slicing
-reversed_name = name[::-1]
-print(reversed_name)
+# reversed_name = name[::-1]
+# print(reversed_name)
 
 # Slice Function
 # negative index is like indexing but from end to start
@@ -114,8 +114,15 @@ print(reversed_name)
 #           -7  -6  -5  -4   -3  -2  -1
 # string =   M   o   h   a   m   e   d
 
-website = "http://google.com"
-slice = slice(7,-4)
-print(website[slice])
+# website = "http://google.com"
+# slice = slice(7,-4)
+# print(website[slice])
 
-
+##### if conditions
+age = int(input("How old are your"))
+if age>=18 :
+    print("you are adult")
+elif age <=0 :
+    print("you haven't been born yet")
+else :
+    print("you are a child")

@@ -38,17 +38,29 @@
 
 ## string functinos
 
-name = "mohamed"
-print(len(name)) # --> str.size()
-print(name.find("hamed")) # ---> find substring or find char , return first idx of the finded str , char
-print(name.capitalize())  # --- > #capital anything
-print(name.upper())   # --- > #capital anything
-print(name.lower())    # --- > ! capital anything
-digitt = "024345653465674567678"
-print(digitt.isdigit()) # return true if the string consisting of digits
-print(digitt.isalpha())
-print(digitt.count('6'))
-print(digitt.replace('6','7'))
+#name = "mohamed"
+#print(len(name)) # --> str.size()
+#print(name.find("hamed")) # ---> find substring or find char , return first idx of the finded str , char
+#print(name.capitalize())  # --- > #capital anything
+#print(name.upper())   # --- > #capital anything
+#print(name.lower())    # --- > ! capital anything
+#digitt = "024345653465674567678"
+#print(digitt.isdigit()) # return true if the string consisting of digits
+#print(digitt.isalpha())
+#print(digitt.count('6'))
+#print(digitt.replace('6','7'))
 
 # Display string more than one time
-print(name*3)
+#print(name*3)
+
+
+# Type casting
+x,y,z = 1,2.0,"3"
+
+x=float(x)
+y=int(y)
+z=int(z)
+
+print(x)
+print(y)
+print(z*3)

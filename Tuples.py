@@ -12,4 +12,3 @@ for i in student:
 if "Bro" in student:
     print("Bro is here!")
 
-

@@ -41,7 +41,7 @@
 #name = "mohamed"
 #print(len(name)) # --> str.size()
 #print(name.find("hamed")) # ---> find substring or find char , return first idx of the finded str , char
-#print(name.capitalize())  # --- > #capital anything
+#print(name.capitalize())  # --- > #capital First char
 #print(name.upper())   # --- > #capital anything
 #print(name.lower())    # --- > ! capital anything
 #digitt = "024345653465674567678"

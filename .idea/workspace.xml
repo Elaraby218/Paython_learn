@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Formate_Number.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Randomizeation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Python.List_in_python.executor": "Run",
     "Python.Loop_contorl_statements.executor": "Run",
     "Python.Problems.executor": "Run",
+    "Python.Randomizeation.executor": "Run",
     "Python.Set.executor": "Run",
     "Python.Test.executor": "Run",
     "Python.Tuples.executor": "Run",
@@ -290,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708765758893</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Formating numbers">
+      <option name="closed" value="true" />
+      <created>1708769748680</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1708769748680</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -315,6 +324,7 @@
     <MESSAGE value="Functions part 2" />
     <MESSAGE value="args" />
     <MESSAGE value="formating strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="formating strings" />
+    <MESSAGE value="Formating numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formating numbers" />
   </component>
 </project>

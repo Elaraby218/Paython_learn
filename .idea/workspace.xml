@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/args.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stringFormat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,18 +56,21 @@
     "Python.Dicitionary.executor": "Run",
     "Python.Functions.executor": "Run",
     "Python.Functions_p2.executor": "Run",
+    "Python.Kwargs.executor": "Run",
     "Python.List_in_python.executor": "Run",
     "Python.Loop_contorl_statements.executor": "Run",
+    "Python.Problems.executor": "Run",
     "Python.Set.executor": "Run",
     "Python.Test.executor": "Run",
     "Python.Tuples.executor": "Run",
     "Python.args.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.stringFormat.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
+    "settings.editor.selected.configurable": "preferences.editor",
     "settings.editor.splitter.proportion": "0.3058104"
   }
 }]]></component>
@@ -269,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708455007803</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="args">
+      <option name="closed" value="true" />
+      <created>1708456527408</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1708456527408</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,6 +305,7 @@
     <MESSAGE value="Dictionary and its methods" />
     <MESSAGE value="Functions part 1" />
     <MESSAGE value="Functions part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions part 2" />
+    <MESSAGE value="args" />
+    <option name="LAST_COMMIT_MESSAGE" value="args" />
   </component>
 </project>

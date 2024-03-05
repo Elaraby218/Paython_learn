@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Kwargs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +61,12 @@
     "Python.Loop_contorl_statements.executor": "Run",
     "Python.Problems.executor": "Run",
     "Python.Randomizeation.executor": "Run",
+    "Python.Read_file.executor": "Run",
     "Python.Set.executor": "Run",
     "Python.Test.executor": "Run",
     "Python.Tuples.executor": "Run",
     "Python.args.executor": "Run",
+    "Python.classes.executor": "Run",
     "Python.main.executor": "Run",
     "Python.stringFormat.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -323,11 +325,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709042650358</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Read from file">
+      <option name="closed" value="true" />
+      <created>1709043274885</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1709043274885</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pritn statment" />
     <MESSAGE value="Strings , Floats , Intgers , Booleans , String casting , 15:00" />
     <MESSAGE value="Multiple assignments" />
     <MESSAGE value="Methodes of the string class" />
@@ -352,6 +361,7 @@
     <MESSAGE value="Random numbers funcs" />
     <MESSAGE value="exception handel" />
     <MESSAGE value="File Detection" />
-    <option name="LAST_COMMIT_MESSAGE" value="File Detection" />
+    <MESSAGE value="Read from file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Read from file" />
   </component>
 </project>

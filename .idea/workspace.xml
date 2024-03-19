@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41b9111d-aa82-44f9-8c09-90cd9b5c0f19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/8_Puzzles/A_Star_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Puzzles/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_Puzzles/Puzzle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Maze Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +56,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.2D_Lists.executor": "Run",
+    "Python.A_Star_Search.executor": "Run",
+    "Python.DFS.executor": "Run",
     "Python.Dicitionary.executor": "Run",
     "Python.Exhandling.executor": "Run",
     "Python.File Detection.executor": "Run",
@@ -59,7 +67,9 @@
     "Python.Kwargs.executor": "Run",
     "Python.List_in_python.executor": "Run",
     "Python.Loop_contorl_statements.executor": "Run",
+    "Python.Main.executor": "Run",
     "Python.Problems.executor": "Run",
+    "Python.Puzzle.executor": "Run",
     "Python.Randomizeation.executor": "Run",
     "Python.Read_file.executor": "Run",
     "Python.Set.executor": "Run",
@@ -68,19 +78,20 @@
     "Python.args.executor": "Run",
     "Python.classes.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.problem.executor": "Run",
     "Python.stringFormat.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "settings.editor.splitter.proportion": "0.3058104"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -333,11 +344,18 @@
       <option name="project" value="LOCAL" />
       <updated>1709043274885</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="intor to OOP">
+      <option name="closed" value="true" />
+      <created>1709656739346</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1709656739346</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Strings , Floats , Intgers , Booleans , String casting , 15:00" />
     <MESSAGE value="Multiple assignments" />
     <MESSAGE value="Methodes of the string class" />
     <MESSAGE value="Type casting" />
@@ -362,6 +380,7 @@
     <MESSAGE value="exception handel" />
     <MESSAGE value="File Detection" />
     <MESSAGE value="Read from file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read from file" />
+    <MESSAGE value="intor to OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="intor to OOP" />
   </component>
 </project>
